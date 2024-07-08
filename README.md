@@ -16,7 +16,7 @@ Breakout Ball is a classic arcade game where the player controls a paddle to bou
 ## Technologies Used
 - Java Swing for GUI development.
 - Java AWT for graphics rendering.
-- IDE: IntelliJ IDEA (or your preferred IDE).
+- IDE: NetBeans(or your preferred IDE).
 - Libraries: None.
 
 ## Installation
