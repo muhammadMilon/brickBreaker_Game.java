@@ -4,7 +4,7 @@
 Breakout Ball is a classic arcade game where the player controls a paddle to bounce a ball against a wall of bricks, destroying them in the process. The objective is to clear all the bricks without letting the ball fall out of bounds.
 
 ## Demo
-[Watch the Gameplay Video](link_to_your_video)
+[Watch the Gameplay Video](https://youtu.be/zMlq8nN7gLg?si=sTPdwe-ckPCCnhRt)
 
 ## Features
 - Interactive gameplay with keyboard controls.
