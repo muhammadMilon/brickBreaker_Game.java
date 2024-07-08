@@ -1,19 +1,5 @@
 # Breakout Ball Game
 
-![Game Screenshot](game_screenshot.png)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Gameplay](#gameplay)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-
 ## Introduction
 Breakout Ball is a classic arcade game where the player controls a paddle to bounce a ball against a wall of bricks, destroying them in the process. The objective is to clear all the bricks without letting the ball fall out of bounds.
 
@@ -33,21 +19,31 @@ Breakout Ball is a classic arcade game where the player controls a paddle to bou
 - IDE: IntelliJ IDEA (or your preferred IDE).
 - Libraries: None.
 
-How to Play
-Run the Main class.
-Use the left and right arrow keys to move the paddle.
-Bounce the ball against the bricks to destroy them.
-Prevent the ball from falling off the screen.
-Clear all bricks to win the game.
-Gameplay
+## Installation
+1. Clone the repository.
+2. Open the project in your preferred IDE.
+3. Compile and run the Main class.
+
+## How to Play
+- Use the left and right arrow keys to move the paddle.
+- Bounce the ball against the bricks to destroy them.
+- Prevent the ball from falling off the screen.
+- Clear all bricks to win the game.
+
+## Gameplay
 The game starts with a paddle at the bottom of the screen and a ball that bounces off the walls and bricks. The player must move the paddle horizontally to keep the ball in play and destroy all the bricks by bouncing the ball against them. The game ends when all bricks are destroyed or the ball falls below the paddle.
 
-Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a new Pull Request.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Create a new Pull Request.
+## Acknowledgements
+- Mention anyone you want to credit (optional).
+
+## License
+Specify your license here (e.g., MIT).
