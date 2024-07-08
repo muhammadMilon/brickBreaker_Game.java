@@ -33,17 +33,16 @@ Breakout Ball is a classic arcade game where the player controls a paddle to bou
 ## Gameplay
 The game starts with a paddle at the bottom of the screen and a ball that bounces off the walls and bricks. The player must move the paddle horizontally to keep the ball in play and destroy all the bricks by bouncing the ball against them. The game ends when all bricks are destroyed or the ball falls below the paddle.
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
+## Contributions
 
-## Acknowledgements
-- Mention anyone you want to credit (optional).
+Contributions to enhance the functionality, improve UI/UX, or fix issues are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-## License
-Specify your license here (e.g., MIT).
+## Acknowledgments
+
+- Inspired by Our CSE Botherhood.
+- Thank you to my all SENIOR for their guidance and assistance.
+
+---
+
+**Author:** Muhammad Milon  
+**Project Link:** [Here](https://github.com/muhammadMilon/brickBreaker_Game.java)
