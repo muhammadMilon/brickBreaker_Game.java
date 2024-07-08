@@ -47,5 +47,5 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 
 ---
 
-**Author:** Muhammad Milon  
+**Author:** [Muhammad Milon](https://github.com/muhammadMilon)  
 **Project Link:** [Here](https://github.com/muhammadMilon/brickBreaker_Game.java)
